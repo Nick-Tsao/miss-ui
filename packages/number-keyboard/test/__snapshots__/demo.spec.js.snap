@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div><button class="ms-button ms-button--default ms-button--normal"><span class="ms-button__text">
+      弹出默认键盘
+    </span></button>
+    <div name="ms-slide-up" class="ms-number-keyboard ms-number-keyboard--default" style="z-index:100;">
+      <div class="ms-hairline--top ms-number-keyboard__title"><span></span> <span class="ms-number-keyboard__close">完成</span></div>
+      <div class="ms-number-keyboard__body"><i class="ms-hairline ms-key">1</i><i class="ms-hairline ms-key">2</i><i class="ms-hairline ms-key">3</i><i class="ms-hairline ms-key">4</i><i class="ms-hairline ms-key">5</i><i class="ms-hairline ms-key">6</i><i class="ms-hairline ms-key">7</i><i class="ms-hairline ms-key">8</i><i class="ms-hairline ms-key">9</i><i class="ms-hairline ms-key ms-key--gray">.</i><i class="ms-hairline ms-key">0</i><i class="ms-hairline ms-key ms-key--gray ms-key--delete">删除</i></div>
+      <!---->
+    </div>
+  </div>
+  <div><button class="ms-button ms-button--default ms-button--normal"><span class="ms-button__text">
+      弹出自定义键盘
+    </span></button>
+    <div name="ms-slide-up" class="ms-number-keyboard ms-number-keyboard--custom" style="z-index:100;display:none;">
+      <!---->
+      <div class="ms-number-keyboard__body"><i class="ms-hairline ms-key">1</i><i class="ms-hairline ms-key">2</i><i class="ms-hairline ms-key">3</i><i class="ms-hairline ms-key">4</i><i class="ms-hairline ms-key">5</i><i class="ms-hairline ms-key">6</i><i class="ms-hairline ms-key">7</i><i class="ms-hairline ms-key">8</i><i class="ms-hairline ms-key">9</i><i class="ms-hairline ms-key ms-key--middle">0</i><i class="ms-hairline ms-key">.</i></div>
+      <div class="ms-number-keyboard__sidebar"><i class="ms-hairline ms-key ms-key--delete ms-key--big ms-key--gray">删除</i> <i class="ms-hairline ms-key ms-key--blue ms-key--big">完成</i></div>
+    </div>
+  </div>
+</div>
+`;

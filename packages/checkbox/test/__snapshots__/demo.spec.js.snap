@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-checkbox">
+      <div class="ms-checkbox__icon ms-checkbox__icon--round ms-checkbox__icon--checked"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+          <!---->
+          <!----></i></div> <span class="ms-checkbox__label">复选框</span>
+    </div>
+  </div>
+  <div>
+    <div class="ms-checkbox">
+      <div class="ms-checkbox__icon ms-checkbox__icon--round ms-checkbox__icon--disabled"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+          <!---->
+          <!----></i></div> <span class="ms-checkbox__label ms-checkbox__label--disabled">
+      复选框
+    </span>
+    </div>
+    <div class="ms-checkbox">
+      <div class="ms-checkbox__icon ms-checkbox__icon--round ms-checkbox__icon--disabled ms-checkbox__icon--checked"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+          <!---->
+          <!----></i></div> <span class="ms-checkbox__label ms-checkbox__label--disabled">
+      复选框
+    </span>
+    </div>
+  </div>
+  <div>
+    <div class="ms-checkbox">
+      <div class="ms-checkbox__icon ms-checkbox__icon--round ms-checkbox__icon--checked"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;border-color:#4b0;background-color:#4b0;">
+          <!---->
+          <!----></i></div> <span class="ms-checkbox__label">
+      自定义颜色
+    </span>
+    </div>
+  </div>
+  <div>
+    <div class="ms-checkbox">
+      <div class="ms-checkbox__icon ms-checkbox__icon--round ms-checkbox__icon--checked"><img src="https://img.yzcdn.cn/public_files/2017/10/13/793c77793db8641c4c325b7f25bf130d.png"></div> <span class="ms-checkbox__label">
+      自定义图标
+      </span>
+    </div>
+  </div>
+  <div>
+    <div class="ms-checkbox-group">
+      <div class="ms-checkbox">
+        <div class="ms-checkbox__icon ms-checkbox__icon--round ms-checkbox__icon--checked"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i></div> <span class="ms-checkbox__label">
+        复选框 a
+      </span>
+      </div>
+      <div class="ms-checkbox">
+        <div class="ms-checkbox__icon ms-checkbox__icon--round ms-checkbox__icon--checked"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i></div> <span class="ms-checkbox__label">
+        复选框 b
+      </span>
+      </div>
+      <div class="ms-checkbox">
+        <div class="ms-checkbox__icon ms-checkbox__icon--round"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i></div> <span class="ms-checkbox__label">
+        复选框 c
+      </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-checkbox-group">
+      <div class="ms-checkbox">
+        <div class="ms-checkbox__icon ms-checkbox__icon--round"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i></div> <span class="ms-checkbox__label">
+        复选框 a
+      </span>
+      </div>
+      <div class="ms-checkbox">
+        <div class="ms-checkbox__icon ms-checkbox__icon--round"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i></div> <span class="ms-checkbox__label">
+        复选框 b
+      </span>
+      </div>
+      <div class="ms-checkbox">
+        <div class="ms-checkbox__icon ms-checkbox__icon--round"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i></div> <span class="ms-checkbox__label">
+        复选框 c
+      </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-checkbox-group">
+      <div class="ms-cell-group ms-hairline--top-bottom">
+        <div class="ms-cell ms-cell--clickable">
+          <!---->
+          <div class="ms-cell__title"><span>复选框a</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value">
+            <div class="ms-checkbox">
+              <div class="ms-checkbox__icon ms-checkbox__icon--round"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+                  <!---->
+                  <!----></i></div>
+              <!---->
+            </div>
+          </div>
+          <!---->
+        </div>
+        <div class="ms-cell ms-cell--clickable">
+          <!---->
+          <div class="ms-cell__title"><span>复选框b</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value">
+            <div class="ms-checkbox">
+              <div class="ms-checkbox__icon ms-checkbox__icon--round"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+                  <!---->
+                  <!----></i></div>
+              <!---->
+            </div>
+          </div>
+          <!---->
+        </div>
+        <div class="ms-cell ms-cell--clickable">
+          <!---->
+          <div class="ms-cell__title"><span>复选框c</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value">
+            <div class="ms-checkbox">
+              <div class="ms-checkbox__icon ms-checkbox__icon--round"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+                  <!---->
+                  <!----></i></div>
+              <!---->
+            </div>
+          </div>
+          <!---->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

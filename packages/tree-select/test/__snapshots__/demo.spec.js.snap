@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-tree-select" style="height:300px;">
+      <div class="ms-tree-select__nav">
+        <div class="ms-ellipsis ms-tree-select__nitem ms-tree-select__nitem--active">
+          所有城市
+        </div>
+        <div class="ms-ellipsis ms-tree-select__nitem">
+          浙江
+        </div>
+        <div class="ms-ellipsis ms-tree-select__nitem">
+          江苏
+        </div>
+        <div class="ms-ellipsis ms-tree-select__nitem ms-tree-select__nitem--disabled">
+          福建
+        </div>
+      </div>
+      <div class="ms-tree-select__content">
+        <div class="ms-ellipsis ms-tree-select__item ms-tree-select__item--active">
+          杭州
+          <i class="ms-icon ms-icon-checked ms-tree-select__selected" style="color:undefined;font-size:16px;">
+            <!---->
+            <!----></i></div>
+        <div class="ms-ellipsis ms-tree-select__item">
+          温州
+          <!---->
+        </div>
+        <div class="ms-ellipsis ms-tree-select__item ms-tree-select__item--disabled">
+          宁波
+          <!---->
+        </div>
+        <div class="ms-ellipsis ms-tree-select__item">
+          义乌
+          <!---->
+        </div>
+        <div class="ms-ellipsis ms-tree-select__item">
+          南京
+          <!---->
+        </div>
+        <div class="ms-ellipsis ms-tree-select__item">
+          无锡
+          <!---->
+        </div>
+        <div class="ms-ellipsis ms-tree-select__item">
+          徐州
+          <!---->
+        </div>
+        <div class="ms-ellipsis ms-tree-select__item">
+          苏州
+          <!---->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

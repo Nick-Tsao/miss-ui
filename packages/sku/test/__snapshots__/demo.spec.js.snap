@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="sku-container">
+      <!----> <button class="ms-button ms-button--primary ms-button--normal ms-button--block"><span class="ms-button__text">
+        基础用法
+      </span></button></div>
+  </div>
+  <div>
+    <div class="sku-container">
+      <!----> <button class="ms-button ms-button--primary ms-button--normal ms-button--block"><span class="ms-button__text">
+        自定义步进器相关配置
+      </span></button></div>
+  </div>
+  <div>
+    <div class="sku-container">
+      <!----> <button class="ms-button ms-button--primary ms-button--normal ms-button--block"><span class="ms-button__text">
+        高级用法
+      </span></button></div>
+  </div>
+</div>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`submit 1`] = `
+<div class="ms-submit-bar">
+  <!---->
+  <div class="ms-submit-bar__bar">
+    <div class="ms-submit-bar__text"><span>合计：</span> <span class="ms-submit-bar__price">¥ 0.00</span></div> <button disabled="disabled" class="ms-button ms-button--danger ms-button--large ms-button--square ms-button--disabled ms-button--unclickable"><span class="ms-button__text">
+
+    </span></button>
+  </div>
+</div>
+`;

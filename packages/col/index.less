@@ -1,0 +1,13 @@
+@import '../style/var';
+
+.ms-col {
+  float: left;
+  box-sizing: border-box;
+}
+
+.generate-col(24);
+.generate-col(@n, @i: 1) when (@i =< @n) {
+  .ms-col--@{i} { width: @i * 100% / 24; }
+  .ms-col--offset-@{i} { margin-left: @i * 100% / 24; }
+  .generate-col(@n, (@i + 1));
+}

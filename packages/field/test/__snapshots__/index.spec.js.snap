@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`clearable 1`] = `
+<div class="ms-cell ms-field">
+  <!---->
+  <!---->
+  <div class="ms-cell__value ms-cell__value--alone">
+    <div class="ms-field__body"><input type="text" class="ms-field__control">
+      <!---->
+      <!---->
+      <!---->
+    </div>
+    <!---->
+  </div>
+  <!---->
+</div>
+`;
+
+exports[`clearable 2`] = `
+<div class="ms-cell ms-field">
+  <!---->
+  <!---->
+  <div class="ms-cell__value ms-cell__value--alone">
+    <div class="ms-field__body"><input type="text" class="ms-field__control"> <i class="ms-icon ms-icon-clear ms-field__clear">
+        <!---->
+        <!----></i>
+      <!---->
+      <!---->
+    </div>
+    <!---->
+  </div>
+  <!---->
+</div>
+`;
+
+exports[`render textarea 1`] = `
+<div class="ms-cell ms-field">
+  <!---->
+  <!---->
+  <div class="ms-cell__value ms-cell__value--alone">
+    <div class="ms-field__body"><textarea class="ms-field__control" style="height: auto;"></textarea>
+      <!---->
+      <!---->
+      <!---->
+    </div>
+    <!---->
+  </div>
+  <!---->
+</div>
+`;

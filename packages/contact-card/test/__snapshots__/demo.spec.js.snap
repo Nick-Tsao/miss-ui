@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-cell ms-cell--center ms-cell--borderless ms-cell--clickable ms-contact-card ms-contact-card--add"><i class="ms-icon ms-icon-add-square ms-cell__left-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+      <!---->
+      <div class="ms-cell__value ms-cell__value--alone">添加联系人</div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+    <div name="popup-slide-bottom" class="ms-popup ms-popup--bottom" style="display:none;">
+      <div class="ms-contact-list">
+        <div class="ms-radio-group">
+          <div class="ms-cell-group ms-hairline--top-bottom">
+            <div class="ms-cell ms-cell--clickable">
+              <!---->
+              <!---->
+              <div class="ms-cell__value ms-cell__value--alone">
+                <div class="ms-radio"><span class="ms-radio__input"><input type="radio" value="0" class="ms-radio__control"> <i class="ms-icon ms-icon-circle" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label"><div class="ms-contact-list__name">张三，13000000000</div></span></div>
+              </div> <i class="ms-icon ms-icon-edit ms-contact-list__edit" style="color:undefined;font-size:undefined;">
+                <!---->
+                <!----></i>
+            </div>
+          </div>
+        </div> <button class="ms-button ms-button--danger ms-button--large ms-button--square ms-contact-list__add"><span class="ms-button__text">新建联系人</span></button>
+      </div>
+    </div>
+    <div name="popup-slide-bottom" class="ms-popup ms-popup--bottom" style="display:none;">
+      <div class="ms-contact-edit">
+        <div class="ms-cell-group ms-hairline--top-bottom">
+          <div maxlength="30" placeholder="请填写姓名" class="ms-cell ms-field">
+            <!---->
+            <div class="ms-cell__title"><span>张三</span>
+              <!---->
+            </div>
+            <div class="ms-cell__value">
+              <div class="ms-field__body"><input type="text" maxlength="30" placeholder="请填写姓名" class="ms-field__control">
+                <!---->
+                <!---->
+                <!---->
+              </div>
+              <!---->
+            </div>
+            <!---->
+          </div>
+          <div placeholder="请填写电话" class="ms-cell ms-field">
+            <!---->
+            <div class="ms-cell__title"><span>电话</span>
+              <!---->
+            </div>
+            <div class="ms-cell__value">
+              <div class="ms-field__body"><input type="tel" placeholder="请填写电话" class="ms-field__control">
+                <!---->
+                <!---->
+                <!---->
+              </div>
+              <!---->
+            </div>
+            <!---->
+          </div>
+        </div>
+        <div class="ms-contact-edit__buttons"><button class="ms-button ms-button--danger ms-button--normal ms-button--block"><span class="ms-button__text">
+      保存
+    </span></button>
+          <!---->
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-cell ms-cell--center ms-cell--borderless ms-contact-card ms-contact-card--edit"><i class="ms-icon ms-icon-contact ms-cell__left-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+      <!---->
+      <div class="ms-cell__value ms-cell__value--alone">
+        <div>张三：张三</div>
+        <div>电话：13000000000</div>
+      </div>
+      <!---->
+    </div>
+  </div>
+</div>
+`;

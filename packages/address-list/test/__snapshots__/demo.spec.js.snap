@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-address-list">
+      <div class="ms-radio-group">
+        <div class="ms-cell-group ms-hairline--top-bottom">
+          <div class="ms-cell ms-cell--clickable ms-address-item">
+            <!---->
+            <!---->
+            <div class="ms-cell__value ms-cell__value--alone">
+              <div class="ms-radio"><span class="ms-radio__input"><input type="radio" value="1" checked="checked" class="ms-radio__control"> <i class="ms-icon ms-icon-checked" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label"><div class="ms-address-item__name">张三，13000000000</div> <div class="ms-address-item__address">浙江省杭州市西湖区文三路 138 号东方通信大厦 7 楼 501 室</div></span></div>
+            </div> <i class="ms-icon ms-icon-edit ms-address-item__edit" style="color:undefined;font-size:undefined;">
+              <!---->
+              <!----></i>
+          </div>
+          <div class="ms-cell ms-cell--clickable ms-address-item">
+            <!---->
+            <!---->
+            <div class="ms-cell__value ms-cell__value--alone">
+              <div class="ms-radio"><span class="ms-radio__input"><input type="radio" value="2" class="ms-radio__control"> <i class="ms-icon ms-icon-circle" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label"><div class="ms-address-item__name">李四，1310000000</div> <div class="ms-address-item__address">浙江省杭州市拱墅区莫干山路 50 号</div></span></div>
+            </div> <i class="ms-icon ms-icon-edit ms-address-item__edit" style="color:undefined;font-size:undefined;">
+              <!---->
+              <!----></i>
+          </div>
+        </div>
+      </div>
+      <div class="ms-address-list__disabled-text">
+        以下地址超出配送范围
+      </div>
+      <div class="ms-cell-group ms-hairline--top-bottom">
+        <div class="ms-cell ms-address-item ms-address-item--disabled ms-address-item--unswitchable">
+          <!---->
+          <!---->
+          <div class="ms-cell__value ms-cell__value--alone">
+            <div class="ms-radio"><span class="ms-radio__input"><input type="radio" value="3" class="ms-radio__control"> <i class="ms-icon ms-icon-circle" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label"><div class="ms-address-item__name">王五，1320000000</div> <div class="ms-address-item__address">浙江省杭州市滨江区江南大道 15 号</div></span></div>
+          </div> <i class="ms-icon ms-icon-edit ms-address-item__edit" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+      </div> <button class="ms-button ms-button--danger ms-button--large ms-button--square ms-address-list__add"><span class="ms-button__text">新增地址</span></button>
+    </div>
+  </div>
+</div>
+`;

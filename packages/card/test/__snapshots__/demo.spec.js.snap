@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-card"><a class="ms-card__thumb"><img src="//img.yzcdn.cn/upload_files/2017/07/02/af5b9f44deaeb68000d7e4a711160c53.jpg" class="ms-card__img">
+        <!----></a>
+      <div class="ms-card__content">
+        <div class="ms-card__title">
+          2018秋冬新款男士休闲时尚军绿飞行夹克秋冬新款男
+        </div>
+        <div class="ms-card__desc ms-ellipsis">
+          描述信息
+        </div>
+        <div class="ms-card__bottom">
+          <div class="ms-card__price">
+            ¥ 2.00
+          </div>
+          <!---->
+          <div class="ms-card__num">
+            x 2
+          </div>
+        </div>
+      </div>
+      <!---->
+    </div>
+  </div>
+  <div>
+    <div class="ms-card"><a class="ms-card__thumb"><img src="//img.yzcdn.cn/upload_files/2017/07/02/af5b9f44deaeb68000d7e4a711160c53.jpg" class="ms-card__img"> <span class="ms-tag ms-tag--mark ms-card__tag" style="background-color:#f44;">
+      标签
+    </span></a>
+      <div class="ms-card__content">
+        <div class="ms-card__title">
+          2018秋冬新款男士休闲时尚军绿飞行夹克秋冬新款男
+        </div>
+        <div class="ms-card__desc ms-ellipsis">
+          描述信息
+        </div>
+        <div class="card__tags"><span class="ms-tag ms-tag--plain ms-hairline--surround" style="color:#f44;">
+          标签1
+        </span> <span class="ms-tag ms-tag--plain ms-hairline--surround" style="color:#f44;">
+          标签2
+        </span></div>
+        <div class="ms-card__bottom">
+          <div class="ms-card__price">
+            ¥ 2.00
+          </div>
+          <div class="ms-card__origin-price">
+            ¥ 10.00
+          </div>
+          <div class="ms-card__num">
+            x 2
+          </div>
+        </div>
+      </div>
+      <div class="ms-card__footer">
+        <div class="card__footer"><button class="ms-button ms-button--default ms-button--mini ms-button--round"><span class="ms-button__text">
+          按钮
+        </span></button> <button class="ms-button ms-button--default ms-button--mini ms-button--round"><span class="ms-button__text">
+          按钮
+        </span></button></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

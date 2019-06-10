@@ -1,0 +1,79 @@
+@import '../style/var.less';
+
+.ms-codebox-wrapper {
+  .ms-codebox-input {
+    position: absolute;
+    left: -9999px;
+    opacity: 0;
+  }
+}
+
+
+
+.ms-codebox {
+  position: relative;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.ms-codebox-box {
+  position: relative;
+  flex: 0 1 @codebox-width;
+  width: @codebox-width;
+  height: @codebox-width;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: @codebox-color;
+  font-size: @codebox-font-size;
+  font-weight: normal;
+  line-height: 1.2;
+  margin-left: 10px;
+  margin-right: 10px;
+  &:first-child {
+    margin-left: 0;
+  }
+  &:last-child {
+    margin-right: 0;
+  }
+  &.is-active, &.is-filled {
+    border-color: @codebox-border-active-color;
+  }
+  &[class*='ms-hairline']::after {
+    border-color: #ddd;
+  }
+}
+  
+
+.ms-codebox-holder {
+  pointer-events: none;
+  height: @codebox-height;
+  line-height: @codebox-height;
+  padding: 0 6px;
+  width: 100%;
+  text-align: center;
+  font-size: codebox-font-size;
+  outline: none;
+  color: @codebox-color;
+  letter-spacing: 0.1em;
+  border-radius: 0;
+  border-style: solid;
+  border-width: 0 0 1px 0;
+  border-color: @codebox-border-color;
+  background: none;
+  box-shadow: none;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -webkit-text-fill-color: @codebox-color;
+  &[disabled],&[readonly] {
+    opacity: 1;
+    color: @codebox-color;
+    border-color: @codebox-border-color;
+  }
+    
+  &.is-active {
+    border-color: @codebox-border-active-color;
+  }
+}
+  

@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-cell-group ms-hairline--top-bottom ms-panel">
+      <div class="ms-cell ms-panel__header">
+        <!---->
+        <div class="ms-cell__title"><span>标题</span>
+          <div class="ms-cell__label">描述信息</div>
+        </div>
+        <div class="ms-cell__value"><span>状态</span></div>
+        <!---->
+      </div>
+      <div class="ms-panel__content">
+        <div>内容</div>
+      </div>
+      <!---->
+    </div>
+  </div>
+  <div>
+    <div class="ms-cell-group ms-hairline--top-bottom ms-panel">
+      <div class="ms-cell ms-panel__header">
+        <!---->
+        <div class="ms-cell__title"><span>标题</span>
+          <div class="ms-cell__label">描述信息</div>
+        </div>
+        <div class="ms-cell__value"><span>状态</span></div>
+        <!---->
+      </div>
+      <div class="ms-panel__content">
+        <div>内容</div>
+      </div>
+      <div class="ms-hairline--top ms-panel__footer">
+        <div><button class="ms-button ms-button--default ms-button--small"><span class="ms-button__text">按钮</span></button> <button class="ms-button ms-button--danger ms-button--small"><span class="ms-button__text">
+          按钮
+        </span></button></div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

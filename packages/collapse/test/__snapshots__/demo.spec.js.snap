@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-hairline--top-bottom ms-collapse">
+      <div class="ms-collapse-item">
+        <div class="ms-cell ms-cell--clickable ms-collapse-item__title ms-collapse-item__title--expanded">
+          <!---->
+          <div class="ms-cell__title"><span>有赞微商城</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value"> </div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+        <div class="ms-collapse-item__wrapper">
+          <div class="ms-collapse-item__content">提供多样店铺模板，快速搭建网上商城</div>
+        </div>
+      </div>
+      <div class="ms-collapse-item ms-hairline--top">
+        <div class="ms-cell ms-cell--clickable ms-collapse-item__title">
+          <!---->
+          <div class="ms-cell__title"><span>有赞零售</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value"> </div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+        <!---->
+      </div>
+      <div class="ms-collapse-item ms-hairline--top">
+        <div disabled="disabled" class="ms-cell ms-cell--clickable ms-collapse-item__title ms-collapse-item__title--disabled">
+          <!---->
+          <div class="ms-cell__title"><span>有赞美业</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value"> </div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+        <!---->
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-hairline--top-bottom ms-collapse">
+      <div class="ms-collapse-item">
+        <div class="ms-cell ms-cell--clickable ms-collapse-item__title ms-collapse-item__title--expanded">
+          <!---->
+          <div class="ms-cell__title"><span>有赞微商城</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value"> </div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+        <div class="ms-collapse-item__wrapper">
+          <div class="ms-collapse-item__content">提供多样店铺模板，快速搭建网上商城</div>
+        </div>
+      </div>
+      <div class="ms-collapse-item ms-hairline--top">
+        <div class="ms-cell ms-cell--clickable ms-collapse-item__title">
+          <!---->
+          <div class="ms-cell__title"><span>有赞零售</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value"> </div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+        <!---->
+      </div>
+      <div class="ms-collapse-item ms-hairline--top">
+        <div class="ms-cell ms-cell--clickable ms-collapse-item__title">
+          <!---->
+          <div class="ms-cell__title"><span>有赞美业</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value"> </div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+        <!---->
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-hairline--top-bottom ms-collapse">
+      <div class="ms-collapse-item">
+        <div class="ms-cell ms-cell--clickable ms-collapse-item__title">
+          <!---->
+          <div class="ms-cell__title">
+            <div>有赞微商城<i class="ms-icon ms-icon-question-o" style="color:undefined;font-size:undefined;">
+                <!---->
+                <!----></i></div>
+          </div>
+          <div class="ms-cell__value"> </div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+        <!---->
+      </div>
+      <div class="ms-collapse-item ms-hairline--top">
+        <div class="ms-cell ms-cell--clickable ms-collapse-item__title"><i class="ms-icon ms-icon-shop-o ms-cell__left-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+          <div class="ms-cell__title"><span>有赞零售</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value"> </div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+            <!---->
+            <!----></i>
+        </div>
+        <!---->
+      </div>
+    </div>
+  </div>
+</div>
+`;

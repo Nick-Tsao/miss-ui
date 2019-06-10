@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-submit-bar">
+      <!---->
+      <div class="ms-submit-bar__bar">
+        <div class="ms-submit-bar__text"><span>合计：</span> <span class="ms-submit-bar__price">¥ 30.50</span></div> <button class="ms-button ms-button--danger ms-button--large ms-button--square"><span class="ms-button__text">
+      提交订单
+    </span></button>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-submit-bar">
+      <div class="ms-submit-bar__tip">
+        你的收货地址不支持同城送, 我们已为你推荐快递</div>
+      <div class="ms-submit-bar__bar">
+        <div class="ms-submit-bar__text"><span>合计：</span> <span class="ms-submit-bar__price">¥ 30.50</span></div> <button disabled="disabled" class="ms-button ms-button--danger ms-button--large ms-button--square ms-button--disabled ms-button--unclickable"><span class="ms-button__text">
+      提交订单
+    </span></button>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-submit-bar">
+      <!---->
+      <div class="ms-submit-bar__bar">
+        <div class="ms-submit-bar__text"><span>合计：</span> <span class="ms-submit-bar__price">¥ 30.50</span></div> <button class="ms-button ms-button--danger ms-button--large ms-button--square ms-button--loading ms-button--unclickable">
+          <div class="ms-loading ms-loading--circular ms-loading" style="color:;width:20px;height:20px;"><span class="ms-loading__spinner ms-loading__spinner--circular"> <svg viewBox="25 25 50 50" class="ms-loading__circular"><circle cx="50" cy="50" r="20" fill="none"></circle></svg></span></div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-submit-bar">
+      <div class="ms-submit-bar__tip">
+        <span>
+        你的收货地址不支持同城送, 
+        <span class="edit-address">
+          修改地址
+        </span></span></div>
+      <div class="ms-submit-bar__bar">
+        <div class="ms-checkbox">
+          <div class="ms-checkbox__icon ms-checkbox__icon--round ms-checkbox__icon--checked"><i class="ms-icon ms-icon-success" style="color:undefined;font-size:undefined;">
+              <!---->
+              <!----></i></div> <span class="ms-checkbox__label">全选</span>
+        </div>
+        <div class="ms-submit-bar__text"><span>合计：</span> <span class="ms-submit-bar__price">¥ 30.50</span></div> <button class="ms-button ms-button--danger ms-button--large ms-button--square"><span class="ms-button__text">
+      提交订单
+    </span></button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

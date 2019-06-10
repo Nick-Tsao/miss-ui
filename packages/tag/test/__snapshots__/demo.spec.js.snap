@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div><span class="ms-tag" style="background-color:#969799;">标签</span> <span class="ms-tag" style="background-color:#f44;">标签</span> <span class="ms-tag" style="background-color:#1989fa;">标签</span> <span class="ms-tag" style="background-color:#4b0;">标签</span></div>
+  <div><span class="ms-tag ms-tag--plain ms-hairline--surround" style="color:#969799;">标签</span> <span class="ms-tag ms-tag--plain ms-tag--round ms-hairline--surround" style="color:#f44;">
+      标签
+    </span> <span class="ms-tag ms-tag--plain ms-tag--round ms-hairline--surround" style="color:#1989fa;">
+      标签
+    </span> <span class="ms-tag ms-tag--plain ms-hairline--surround" style="color:#4b0;">
+      标签
+    </span></div>
+  <div><span class="ms-tag ms-tag--round" style="background-color:#969799;">标签</span> <span class="ms-tag ms-tag--round" style="background-color:#f44;">
+      标签
+    </span> <span class="ms-tag ms-tag--round" style="background-color:#1989fa;">
+      标签
+    </span> <span class="ms-tag ms-tag--round" style="background-color:#4b0;">
+      标签
+    </span></div>
+  <div><span class="ms-tag ms-tag--mark" style="background-color:#969799;">标签</span> <span class="ms-tag ms-tag--mark" style="background-color:#f44;">
+      标签
+    </span> <span class="ms-tag ms-tag--mark" style="background-color:#1989fa;">
+      标签
+    </span> <span class="ms-tag ms-tag--mark" style="background-color:#4b0;">
+      标签
+    </span></div>
+  <div><span class="ms-tag" style="background-color:#f2826a;">标签</span> <span class="ms-tag ms-tag--plain ms-hairline--surround" style="color:#f2826a;">
+      标签
+    </span> <span class="ms-tag" style="background-color:#7232dd;">标签</span> <span class="ms-tag ms-tag--plain ms-hairline--surround" style="color:#7232dd;">
+      标签
+    </span> <span class="ms-tag" style="background-color:#ffe1e1;color:#ad0000;">
+      标签
+    </span></div>
+  <div><span class="ms-tag" style="background-color:#f44;">标签</span> <span class="ms-tag ms-tag--medium" style="background-color:#f44;">
+      标签
+    </span> <span class="ms-tag ms-tag--large" style="background-color:#f44;">
+      标签
+    </span></div>
+</div>
+`;

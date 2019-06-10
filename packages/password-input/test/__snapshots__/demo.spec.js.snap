@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-password-input">
+      <ul class="ms-hairline--surround ms-password-input__security">
+        <li class="ms-hairline"><i style="visibility:visible;"></i></li>
+        <li class="ms-hairline"><i style="visibility:visible;"></i></li>
+        <li class="ms-hairline"><i style="visibility:visible;"></i></li>
+        <li class="ms-hairline"><i style="visibility:hidden;"></i></li>
+        <li class="ms-hairline"><i style="visibility:hidden;"></i></li>
+        <li class="ms-hairline"><i style="visibility:hidden;"></i></li>
+      </ul>
+      <div class="ms-password-input__info">密码为 6 位数字</div>
+    </div>
+    <div name="ms-slide-up" class="ms-number-keyboard ms-number-keyboard--default" style="z-index:100;">
+      <!---->
+      <div class="ms-number-keyboard__body"><i class="ms-hairline ms-key">1</i><i class="ms-hairline ms-key">2</i><i class="ms-hairline ms-key">3</i><i class="ms-hairline ms-key">4</i><i class="ms-hairline ms-key">5</i><i class="ms-hairline ms-key">6</i><i class="ms-hairline ms-key">7</i><i class="ms-hairline ms-key">8</i><i class="ms-hairline ms-key">9</i><i class="ms-hairline ms-key ms-key--gray"></i><i class="ms-hairline ms-key">0</i><i class="ms-hairline ms-key ms-key--gray ms-key--delete">删除</i></div>
+      <!---->
+    </div>
+  </div>
+</div>
+`;

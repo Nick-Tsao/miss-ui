@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-hairline--top-bottom ms-badge-group"><a class="ms-badge ms-badge--select ms-hairline">
+        <div class="ms-badge__text">
+          标签名称
+          <!---->
+        </div>
+      </a> <a class="ms-badge ms-hairline">
+        <div class="ms-badge__text">
+          标签名称
+          <div class="ms-info ms-badge__info">
+            8
+          </div>
+        </div>
+      </a> <a class="ms-badge ms-hairline">
+        <div class="ms-badge__text">
+          标签名称
+          <div class="ms-info ms-badge__info">
+            99
+          </div>
+        </div>
+      </a> <a class="ms-badge ms-hairline">
+        <div class="ms-badge__text">
+          标签名称
+          <div class="ms-info ms-badge__info">
+            99+
+          </div>
+        </div>
+      </a></div>
+  </div>
+</div>
+`;

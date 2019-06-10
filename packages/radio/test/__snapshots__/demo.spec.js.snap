@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="demo-radio-group ms-radio-group">
+      <div class="ms-radio"><span class="ms-radio__input"><input type="radio" value="1" checked="checked" class="ms-radio__control"> <i class="ms-icon ms-icon-checked" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label">单选框 1</span></div>
+      <div class="ms-radio"><span class="ms-radio__input"><input type="radio" value="2" class="ms-radio__control"> <i class="ms-icon ms-icon-circle" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label">单选框 2</span></div>
+    </div>
+  </div>
+  <div>
+    <div class="demo-radio-group ms-radio-group">
+      <div class="ms-radio ms-radio--disabled"><span class="ms-radio__input"><input type="radio" disabled="disabled" value="1" class="ms-radio__control"> <i class="ms-icon ms-icon-circle" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label">单选框 1</span></div>
+      <div class="ms-radio ms-radio--disabled"><span class="ms-radio__input"><input type="radio" disabled="disabled" value="2" checked="checked" class="ms-radio__control"> <i class="ms-icon ms-icon-checked" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label">单选框 2</span></div>
+    </div>
+  </div>
+  <div>
+    <div class="demo-radio-group ms-radio"><span class="ms-radio__input"><input type="radio" value="1" checked="checked" class="ms-radio__control"> <i class="ms-icon ms-icon-checked" style="color:#4b0;font-size:undefined;"> <!----> <!----></i></span> <span class="ms-radio__label">
+      单选框
+    </span></div>
+  </div>
+  <div>
+    <div class="ms-radio-group">
+      <div class="ms-cell-group ms-hairline--top-bottom">
+        <div class="ms-cell ms-cell--clickable">
+          <!---->
+          <div class="ms-cell__title"><span>单选框1</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value">
+            <div class="ms-radio"><span class="ms-radio__input"><input type="radio" value="1" checked="checked" class="ms-radio__control"> <i class="ms-icon ms-icon-checked" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span>
+              <!---->
+            </div>
+          </div>
+          <!---->
+        </div>
+        <div class="ms-cell ms-cell--clickable">
+          <!---->
+          <div class="ms-cell__title"><span>单选框2</span>
+            <!---->
+          </div>
+          <div class="ms-cell__value">
+            <div class="ms-radio"><span class="ms-radio__input"><input type="radio" value="2" class="ms-radio__control"> <i class="ms-icon ms-icon-circle" style="color:undefined;font-size:undefined;"> <!----> <!----></i></span>
+              <!---->
+            </div>
+          </div>
+          <!---->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

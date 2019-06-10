@@ -1,0 +1,33 @@
+@import '../style/var';
+.ms-result {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.ms-result-image {
+  width: 260px;
+  img {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+}
+.ms-result-text {
+  margin: 20px 20px 0;
+  color: @black;
+  font-size: @info-size;
+}
+.ms-result-subtext {
+  margin-top: 16px;
+  color: @gray-darker;
+  font-size: @info-font-size;
+}
+.ms-result-buttons {
+  display: flex;
+  .ms-button {
+    margin: 10px;
+  }
+}

@@ -1,0 +1,9 @@
+node_modules
+es
+lib
+vetur
+*.log*
+.cache
+.DS_Store
+.idea
+.vscode

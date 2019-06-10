@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="demo-button-row"><button class="ms-button ms-button--primary ms-button--normal"><span class="ms-button__text">主要按钮</span></button> <button class="ms-button ms-button--danger ms-button--normal"><span class="ms-button__text">危险按钮</span></button></div> <button class="ms-button ms-button--default ms-button--normal"><span class="ms-button__text">默认按钮</span></button> <button class="ms-button ms-button--warning ms-button--normal"><span class="ms-button__text">警告按钮</span></button>
+  </div>
+  <div><button class="ms-button ms-button--primary ms-button--normal ms-button--plain"><span class="ms-button__text">
+      朴素按钮
+    </span></button> <button class="ms-button ms-button--danger ms-button--normal ms-button--plain"><span class="ms-button__text">
+      朴素按钮
+    </span></button></div>
+  <div><button disabled="disabled" class="ms-button ms-button--primary ms-button--normal ms-button--disabled ms-button--unclickable"><span class="ms-button__text">
+      禁用状态
+    </span></button> <button disabled="disabled" class="ms-button ms-button--danger ms-button--normal ms-button--disabled ms-button--unclickable"><span class="ms-button__text">
+      禁用状态
+    </span></button></div>
+  <div><button class="ms-button ms-button--primary ms-button--normal ms-button--loading ms-button--unclickable">
+      <div class="ms-loading ms-loading--circular ms-loading" style="color:;width:20px;height:20px;"><span class="ms-loading__spinner ms-loading__spinner--circular"> <svg viewBox="25 25 50 50" class="ms-loading__circular"><circle cx="50" cy="50" r="20" fill="none"></circle></svg></span></div>
+    </button> <button class="ms-button ms-button--danger ms-button--normal ms-button--loading ms-button--unclickable">
+      <div class="ms-loading ms-loading--circular ms-loading" style="color:;width:20px;height:20px;"><span class="ms-loading__spinner ms-loading__spinner--circular"> <svg viewBox="25 25 50 50" class="ms-loading__circular"><circle cx="50" cy="50" r="20" fill="none"></circle></svg></span></div>
+    </button></div>
+  <div><button class="ms-button ms-button--primary ms-button--normal ms-button--square"><span class="ms-button__text">
+      方形按钮
+    </span></button> <button class="ms-button ms-button--danger ms-button--normal ms-button--round"><span class="ms-button__text">
+      圆形按钮
+    </span></button></div>
+  <div><button class="ms-button ms-button--default ms-button--large"><span class="ms-button__text">大号按钮</span></button> <button class="ms-button ms-button--default ms-button--normal"><span class="ms-button__text">普通按钮</span></button> <button class="ms-button ms-button--default ms-button--small"><span class="ms-button__text">小型按钮</span></button> <button class="ms-button ms-button--default ms-button--mini"><span class="ms-button__text">迷你按钮</span></button></div>
+</div>
+`;

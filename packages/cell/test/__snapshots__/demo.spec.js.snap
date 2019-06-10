@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-cell-group ms-hairline--top-bottom">
+      <div class="ms-cell">
+        <!---->
+        <div class="ms-cell__title"><span>单元格</span>
+          <!---->
+        </div>
+        <div class="ms-cell__value"><span>内容</span></div>
+        <!---->
+      </div>
+      <div class="ms-cell">
+        <!---->
+        <div class="ms-cell__title"><span>单元格</span>
+          <div class="ms-cell__label">描述信息</div>
+        </div>
+        <div class="ms-cell__value"><span>内容</span></div>
+        <!---->
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="ms-cell ms-cell--large">
+      <!---->
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <div class="ms-cell__value"><span>内容</span></div>
+      <!---->
+    </div>
+    <div class="ms-cell ms-cell--large">
+      <!---->
+      <div class="ms-cell__title"><span>单元格</span>
+        <div class="ms-cell__label">描述信息</div>
+      </div>
+      <div class="ms-cell__value"><span>内容</span></div>
+      <!---->
+    </div>
+  </div>
+  <div>
+    <div class="ms-cell"><i class="ms-icon ms-icon-location-o ms-cell__left-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <div class="ms-cell__value"><span>内容</span></div>
+      <!---->
+    </div>
+  </div>
+  <div>
+    <div class="ms-cell">
+      <!---->
+      <!---->
+      <div class="ms-cell__value ms-cell__value--alone"><span>内容</span></div>
+      <!---->
+    </div>
+  </div>
+  <div>
+    <div class="ms-cell ms-cell--clickable">
+      <!---->
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <!----> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+    <div class="ms-cell ms-cell--clickable">
+      <!---->
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <div class="ms-cell__value"><span>内容</span></div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+    <div class="ms-cell ms-cell--clickable">
+      <!---->
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <div class="ms-cell__value"><span>内容</span></div> <i class="ms-icon ms-icon-arrow-down ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+  </div>
+  <div>
+    <div class="ms-cell ms-cell--clickable">
+      <!---->
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <!----> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+    <div class="ms-cell ms-cell--clickable">
+      <!---->
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <!----> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+  </div>
+  <div>
+    <div class="ms-cell ms-cell--clickable"><i class="ms-icon ms-icon-shop-o ms-cell__left-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+      <div class="ms-cell__title"><span class="custom-text">单元格</span> <span class="ms-tag" style="background-color:#f44;">标签</span></div>
+      <div class="ms-cell__value"><span>内容</span></div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+    <div class="ms-cell ms-cell--clickable"><i class="ms-icon ms-icon-location-o ms-cell__left-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <!----> <i class="ms-icon ms-icon-arrow ms-cell__right-icon" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+    <div class="ms-cell">
+      <!---->
+      <div class="ms-cell__title"><span>单元格</span>
+        <!---->
+      </div>
+      <!----> <i class="custom-icon ms-icon ms-icon-search" style="color:undefined;font-size:undefined;">
+        <!---->
+        <!----></i>
+    </div>
+  </div>
+</div>
+`;

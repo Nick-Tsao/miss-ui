@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-loading ms-loading--circular ms-loading" style="color:#c9c9c9;width:undefined;height:undefined;"><span class="ms-loading__spinner ms-loading__spinner--circular"> <svg viewBox="25 25 50 50" class="ms-loading__circular"><circle cx="50" cy="50" r="20" fill="none"></circle></svg></span></div>
+    <div class="ms-loading ms-loading--circular ms-loading--white" style="color:white;width:undefined;height:undefined;"><span class="ms-loading__spinner ms-loading__spinner--circular"> <svg viewBox="25 25 50 50" class="ms-loading__circular"><circle cx="50" cy="50" r="20" fill="none"></circle></svg></span></div>
+  </div>
+  <div>
+    <div class="ms-loading ms-loading--spinner ms-loading" style="color:#c9c9c9;width:undefined;height:undefined;"><span class="ms-loading__spinner ms-loading__spinner--spinner"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i> <!----></span></div>
+    <div class="ms-loading ms-loading--spinner ms-loading--white" style="color:white;width:undefined;height:undefined;"><span class="ms-loading__spinner ms-loading__spinner--spinner"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i> <!----></span></div>
+  </div>
+</div>
+`;

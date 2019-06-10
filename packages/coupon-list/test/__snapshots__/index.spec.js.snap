@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`coupon cell 1`] = `
+<div class="ms-cell ms-cell--clickable ms-coupon-cell">
+  <!---->
+  <div class="ms-cell__title"><span>优惠券</span>
+    <!---->
+  </div>
+  <div class="ms-cell__value"><span>使用优惠</span></div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon">
+    <!---->
+    <!----></i>
+</div>
+`;
+
+exports[`coupon cell 2`] = `
+<div class="ms-cell ms-cell--clickable ms-coupon-cell">
+  <!---->
+  <div class="ms-cell__title"><span>优惠券</span>
+    <!---->
+  </div>
+  <div class="ms-cell__value"><span>-¥1.00</span></div> <i class="ms-icon ms-icon-arrow ms-cell__right-icon">
+    <!---->
+    <!----></i>
+</div>
+`;

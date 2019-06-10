@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactList render 1`] = `
+<div class="ms-contact-list">
+  <div class="ms-radio-group">
+    <div class="ms-cell-group ms-hairline--top-bottom"></div>
+  </div>
+  <ms-button square="" size="large" type="danger" text="新建联系人" class="ms-contact-list__add"></ms-button>
+</div>
+`;

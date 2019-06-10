@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`callback events 1`] = `
+<div class="ms-actionsheet" name="ms-slide-up">
+  <ul class="ms-hairline--bottom">
+    <li class="ms-actionsheet__item ms-hairline--top"><span class="ms-actionsheet__name">Option</span>
+      <!---->
+    </li>
+    <li class="ms-actionsheet__item ms-actionsheet__item--disabled ms-hairline--top"><span class="ms-actionsheet__name">Option</span>
+      <!---->
+    </li>
+  </ul>
+  <div class="ms-actionsheet__cancel ms-hairline--top">Cancel</div>
+</div>
+`;

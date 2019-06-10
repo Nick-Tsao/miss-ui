@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <div class="ms-rate"><i data-index="0" class="ms-icon ms-icon-star ms-rate__item" style="color:#ffd21e;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="1" class="ms-icon ms-icon-star ms-rate__item" style="color:#ffd21e;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="2" class="ms-icon ms-icon-star ms-rate__item" style="color:#ffd21e;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="3" class="ms-icon ms-icon-star-o ms-rate__item" style="color:#c7c7c7;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="4" class="ms-icon ms-icon-star-o ms-rate__item" style="color:#c7c7c7;font-size:20px;">
+        <!---->
+        <!----></i></div>
+  </div>
+  <div>
+    <div class="ms-rate"><i data-index="0" class="ms-icon ms-icon-like ms-rate__item" style="color:#ffd21e;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="1" class="ms-icon ms-icon-like ms-rate__item" style="color:#ffd21e;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="2" class="ms-icon ms-icon-like ms-rate__item" style="color:#ffd21e;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="3" class="ms-icon ms-icon-like-o ms-rate__item" style="color:#c7c7c7;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="4" class="ms-icon ms-icon-like-o ms-rate__item" style="color:#c7c7c7;font-size:20px;">
+        <!---->
+        <!----></i></div>
+  </div>
+  <div>
+    <div class="ms-rate"><i data-index="0" class="ms-icon ms-icon-star ms-rate__item" style="color:#2ba;font-size:25px;">
+        <!---->
+        <!----></i><i data-index="1" class="ms-icon ms-icon-star ms-rate__item" style="color:#2ba;font-size:25px;">
+        <!---->
+        <!----></i><i data-index="2" class="ms-icon ms-icon-star ms-rate__item" style="color:#2ba;font-size:25px;">
+        <!---->
+        <!----></i><i data-index="3" class="ms-icon ms-icon-star ms-rate__item" style="color:#2ba;font-size:25px;">
+        <!---->
+        <!----></i><i data-index="4" class="ms-icon ms-icon-star-o ms-rate__item" style="color:#ceefe8;font-size:25px;">
+        <!---->
+        <!----></i><i data-index="5" class="ms-icon ms-icon-star-o ms-rate__item" style="color:#ceefe8;font-size:25px;">
+        <!---->
+        <!----></i></div>
+  </div>
+  <div>
+    <div class="ms-rate"><i data-index="0" class="ms-icon ms-icon-star ms-rate__item" style="color:#bdbdbd;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="1" class="ms-icon ms-icon-star ms-rate__item" style="color:#bdbdbd;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="2" class="ms-icon ms-icon-star-o ms-rate__item" style="color:#bdbdbd;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="3" class="ms-icon ms-icon-star-o ms-rate__item" style="color:#bdbdbd;font-size:20px;">
+        <!---->
+        <!----></i><i data-index="4" class="ms-icon ms-icon-star-o ms-rate__item" style="color:#bdbdbd;font-size:20px;">
+        <!---->
+        <!----></i></div>
+  </div>
+</div>
+`;

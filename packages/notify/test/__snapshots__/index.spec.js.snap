@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create a notify 1`] = `
+<div class="ms-notify" style="color: rgb(255, 255, 255); background: rgb(255, 68, 68); z-index: 2000;" name="ms-slide-down">
+  test
+</div>
+`;
+
+exports[`notify disappear 1`] = `
+<div class="ms-notify" style="color: red; z-index: 2000; background: blue;" name="ms-slide-down">
+  test
+</div>
+`;
+
+exports[`notify disappear 2`] = `
+<div class="ms-notify" style="color: red; z-index: 2000; background: blue; display: none;" name="ms-slide-down">
+  test
+</div>
+`;
+
+exports[`notify disappear 3`] = `
+<div class="ms-notify" style="color: rgb(255, 255, 255); z-index: 2001; background: rgb(255, 68, 68);" name="ms-slide-down">
+  text2
+</div>
+`;
+
+exports[`notify disappear 4`] = `
+<div class="ms-notify" style="color: rgb(255, 255, 255); z-index: 2001; background: rgb(255, 68, 68); display: none;" name="ms-slide-down">
+  text2
+</div>
+`;

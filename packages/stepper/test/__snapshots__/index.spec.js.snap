@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`disable stepper input 1`] = `<div class="ms-stepper"><button class="ms-stepper__minus ms-stepper__minus--disabled"></button> <input type="number" disabled="disabled" class="ms-stepper__input"> <button class="ms-stepper__plus"></button></div>`;
+
+exports[`disabled stepper 1`] = `<div class="ms-stepper"><button class="ms-stepper__minus ms-stepper__minus--disabled"></button> <input type="number" disabled="disabled" class="ms-stepper__input"> <button class="ms-stepper__plus ms-stepper__plus--disabled"></button></div>`;

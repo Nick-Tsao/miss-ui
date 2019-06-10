@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <ul class="ms-pagination">
+      <li class="ms-hairline ms-pagination__item ms-pagination__item--disabled ms-pagination__prev">
+        上一页
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__item--active ms-pagination__page">
+        1
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__page">
+        2
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__page">
+        3
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__page">
+        4
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__page">
+        5
+      </li>
+      <!---->
+      <li class="ms-hairline ms-pagination__item ms-pagination__next">
+        下一页
+      </li>
+    </ul>
+  </div>
+  <div>
+    <ul size="small" class="ms-pagination ms-pagination--simple">
+      <li class="ms-hairline ms-pagination__item ms-pagination__item--disabled ms-pagination__prev">
+        上一页
+      </li>
+      <li class="ms-pagination__page-desc">1/12</li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__next">
+        下一页
+      </li>
+    </ul>
+  </div>
+  <div>
+    <ul class="ms-pagination">
+      <li class="ms-hairline ms-pagination__item ms-pagination__item--disabled ms-pagination__prev">
+        上一页
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__item--active ms-pagination__page">
+        1
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__page">
+        2
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__page">
+        3
+      </li>
+      <li class="ms-hairline ms-pagination__item ms-pagination__page">
+        ...
+      </li>
+      <!---->
+      <li class="ms-hairline ms-pagination__item ms-pagination__next">
+        下一页
+      </li>
+    </ul>
+  </div>
+</div>
+`;

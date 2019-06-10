@@ -1,0 +1,244 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`change tabs data 1`] = `
+<div class="ms-tabs ms-tabs--line">
+  <div class="ms-tabs__wrap ms-hairline--top-bottom">
+    <div class="ms-tabs__nav ms-tabs__nav--line" style="border-color: #f44;">
+      <div class="ms-tabs__line"></div>
+    </div>
+  </div>
+  <div class="ms-tabs__content">
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <div><span>title2</span></div>
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+  </div>
+</div>
+`;
+
+exports[`change tabs data 2`] = `
+<div class="ms-tabs ms-tabs--line">
+  <div class="ms-tabs__wrap ms-hairline--top-bottom">
+    <div class="ms-tabs__nav ms-tabs__nav--line" style="border-color: #f44;">
+      <div class="ms-tabs__line"></div>
+      <div class="ms-tab ms-tab--active"><span class="ms-ellipsis">
+          title1
+        </span></div>
+      <div class="ms-tab"><span class="ms-ellipsis">
+
+        </span></div>
+      <div class="ms-tab ms-tab--disabled"><span class="ms-ellipsis">
+          title3
+        </span></div>
+    </div>
+  </div>
+  <div class="ms-tabs__content">
+    <div class="ms-tab__pane" style="">
+      <!---->
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <div><span>title2</span></div>
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+  </div>
+</div>
+`;
+
+exports[`click to switch tab 1`] = `
+<div class="ms-tabs ms-tabs--line">
+  <div class="ms-tabs__wrap ms-hairline--top-bottom">
+    <div class="ms-tabs__nav ms-tabs__nav--line" style="border-color: #f44;">
+      <div class="ms-tabs__line" style="width: 2px; background-color: rgb(255, 68, 68); transform: translateX(-1px);"></div>
+      <div class="ms-tab ms-tab--active"><span class="ms-ellipsis">
+          title1
+        </span></div>
+      <div class="ms-tab">
+        <div><span>title2</span></div>
+      </div>
+      <div class="ms-tab ms-tab--disabled"><span class="ms-ellipsis">
+          title3
+        </span></div>
+    </div>
+  </div>
+  <div class="ms-tabs__content">
+    <div class="ms-tab__pane" style="">Text
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+  </div>
+</div>
+`;
+
+exports[`click to switch tab 2`] = `
+<div class="ms-tabs ms-tabs--line">
+  <div class="ms-tabs__wrap ms-hairline--top-bottom">
+    <div class="ms-tabs__nav ms-tabs__nav--line" style="border-color: #f44;">
+      <div class="ms-tabs__line" style="width: 2px; background-color: rgb(255, 68, 68); transform: translateX(-1px);"></div>
+      <div class="ms-tab"><span class="ms-ellipsis">
+          title1
+        </span></div>
+      <div class="ms-tab ms-tab--active">
+        <div><span>title2</span></div>
+      </div>
+      <div class="ms-tab ms-tab--disabled"><span class="ms-ellipsis">
+          title3
+        </span></div>
+    </div>
+  </div>
+  <div class="ms-tabs__content">
+    <div class="ms-tab__pane" style="display: none;">Text
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="">
+      Text
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+  </div>
+</div>
+`;
+
+exports[`swipe to switch tab 1`] = `
+<div class="ms-tabs ms-tabs--line">
+  <div class="ms-tabs__wrap ms-hairline--top-bottom">
+    <div class="ms-tabs__nav ms-tabs__nav--line" style="border-color: #f44;">
+      <div class="ms-tabs__line" style="width: 2px; background-color: rgb(255, 68, 68); transform: translateX(-1px);"></div>
+      <div class="ms-tab ms-tab--active"><span class="ms-ellipsis">
+          title1
+        </span></div>
+      <div class="ms-tab">
+        <div><span>title2</span></div>
+      </div>
+      <div class="ms-tab ms-tab--disabled"><span class="ms-ellipsis">
+          title3
+        </span></div>
+    </div>
+  </div>
+  <div class="ms-tabs__content">
+    <div class="ms-tab__pane" style="">Text
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+  </div>
+</div>
+`;
+
+exports[`swipe to switch tab 2`] = `
+<div class="ms-tabs ms-tabs--line">
+  <div class="ms-tabs__wrap ms-hairline--top-bottom">
+    <div class="ms-tabs__nav ms-tabs__nav--line" style="border-color: #f44;">
+      <div class="ms-tabs__line" style="width: 2px; background-color: rgb(255, 68, 68); transform: translateX(-1px);"></div>
+      <div class="ms-tab"><span class="ms-ellipsis">
+          title1
+        </span></div>
+      <div class="ms-tab ms-tab--active">
+        <div><span>title2</span></div>
+      </div>
+      <div class="ms-tab ms-tab--disabled"><span class="ms-ellipsis">
+          title3
+        </span></div>
+    </div>
+  </div>
+  <div class="ms-tabs__content">
+    <div class="ms-tab__pane" style="display: none;">Text
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="">
+      Text
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+  </div>
+</div>
+`;
+
+exports[`swipe to switch tab 3`] = `
+<div class="ms-tabs ms-tabs--line">
+  <div class="ms-tabs__wrap ms-hairline--top-bottom">
+    <div class="ms-tabs__nav ms-tabs__nav--line" style="border-color: #f44;">
+      <div class="ms-tabs__line" style="width: 2px; background-color: rgb(255, 68, 68); transform: translateX(-1px);"></div>
+      <div class="ms-tab"><span class="ms-ellipsis">
+          title1
+        </span></div>
+      <div class="ms-tab ms-tab--active">
+        <div><span>title2</span></div>
+      </div>
+      <div class="ms-tab ms-tab--disabled"><span class="ms-ellipsis">
+          title3
+        </span></div>
+    </div>
+  </div>
+  <div class="ms-tabs__content">
+    <div class="ms-tab__pane" style="display: none;">Text
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="">
+      Text
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+  </div>
+</div>
+`;
+
+exports[`swipe to switch tab 4`] = `
+<div class="ms-tabs ms-tabs--line">
+  <div class="ms-tabs__wrap ms-hairline--top-bottom">
+    <div class="ms-tabs__nav ms-tabs__nav--line" style="border-color: #f44;">
+      <div class="ms-tabs__line" style="width: 2px; background-color: rgb(255, 68, 68); transform: translateX(-1px);"></div>
+      <div class="ms-tab ms-tab--active"><span class="ms-ellipsis">
+          title1
+        </span></div>
+      <div class="ms-tab">
+        <div><span>title2</span></div>
+      </div>
+      <div class="ms-tab ms-tab--disabled"><span class="ms-ellipsis">
+          title3
+        </span></div>
+    </div>
+  </div>
+  <div class="ms-tabs__content">
+    <div class="ms-tab__pane" style="">Text
+      <!---->
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      Text
+    </div>
+    <div class="ms-tab__pane" style="display: none;">
+      <!---->
+      <!---->
+    </div>
+  </div>
+</div>
+`;
