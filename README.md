@@ -1,4 +1,4 @@
-Miss UI
+[Miss UI](http://www.keepmissing.com/)
 ---
 <h3 align="center" style="margin: 30px 0 35px;">丰富、多样的移动端 Vue 组件库</h3>
 
@@ -14,7 +14,7 @@ Miss UI
 
 ### 快速上手
 
-请参考 [快速上手](#/zh-CN/quickstart)
+请参考 [快速上手](http://www.keepmissing.com/#/zh-CN/quickstart)
 
 
 ### 浏览器支持
